@@ -33,7 +33,7 @@
 
 使用ASP .NET (C#) 產生PDF檔的好幫手—iTextSharp library (上)
 
-http://www.cc.ntu.edu.tw/chinese/epaper/0015/20101220_1509.html
+http://www.cc.ntu.edu.tw/chinese/epaper/0015/20101220_1509.htm
 
 使用ASP .NET (C#) 產生PDF檔的好幫手—iTextSharp library (下)
 
